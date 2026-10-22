@@ -51,7 +51,7 @@ Meus exercícios de C, do nível trainee ao sênior, com enunciado, conceitos e 
 
 ## 📫 Contato
 
-- LinkedIn: *(coloque aqui o link do seu perfil)*
-- E-mail: *(coloque aqui o seu e-mail profissional)*
+- LinkedIn: *(Criando portifolio antes)*
+- E-mail: *(viniciusrfiorini@gmail.com)*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E5303A,100:09090A&height=100&section=footer" width="100%" alt="" />
